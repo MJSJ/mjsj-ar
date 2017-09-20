@@ -2,3 +2,7 @@
 
 /aframe/examples/wolft/*
 /aframe/examples/*.mp4
+
+/data/*
+/src/*
+/^[A-Z]+/
