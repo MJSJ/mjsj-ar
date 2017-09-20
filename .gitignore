@@ -4,5 +4,7 @@
 /aframe/examples/*.mp4
 
 /data/*
-/src/*
+/three.js/*
 /^[A-Z]+/
+
+/aframe/Makefile
